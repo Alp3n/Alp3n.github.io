@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Planck-Regular';
+  src: url('Planck-Regular.eot');
+  src: url('Planck-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Planck-Regular.svg#Planck-Regular') format('svg'),
+       url('Planck-Regular.ttf') format('truetype'),
+       url('Planck-Regular.woff') format('woff'),
+       url('Planck-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
